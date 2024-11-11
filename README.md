@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/sagar_sra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagar_sra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagar-basak079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-basak079" height="30" width="40" /></a>
-<a href="https://instagram.com/sagar._sb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar._sb_" height="30" width="40" /></a>
+<a href="https://instagram.com/sagar._basak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar._sb_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sagar_1907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar_1907" height="30" width="40" /></a>
 </p>
 
