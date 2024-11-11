@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAGAR</h1>
-<h3 align="center">I am Sagar Basak , currently a CS junior at Indian Institute of Engineering Science and Technology (IIEST , formerly BESU) , Shibpur (2025 pass-out) 🎓. I am a passionate full stack web developer from India. I have started learning Machine Learning and AI.</h3>
+<h3 align="center">I am Sagar Basak , currently a CS senior at Indian Institute of Engineering Science and Technology (IIEST , formerly BESU) , Shibpur (2025 pass-out) 🎓. I am a passionate full stack web developer from India. I have started learning Machine Learning and AI.</h3>
 
 
 - 🌱 I’m currently learning **...a lot of things! :)**
